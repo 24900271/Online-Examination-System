@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224220009
+# Name:S.R.AMIRITHA
+# Date:15.03.26
 
 
 # AIM:
@@ -39,7 +39,7 @@ Specifying the context and requirements of a system
 
 
 
-
+![alt text](im1.png)
 
 
 
@@ -57,7 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+![alt text](im2.png)
 
 # COMMUNICTION DIAGRAM:
 
@@ -76,8 +76,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-![alt text](.png)
 
+![alt text](im5.png)
 
 
 
@@ -95,7 +95,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
+![alt text](im3.png)
 
 
 
@@ -116,7 +116,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
+![alt text](im4.png)
 
 
 
